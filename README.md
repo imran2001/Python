@@ -17,4 +17,6 @@ SPYDER NOTEBOOK
 =========================
 (SPYDER AND JUPYTER NOTEBOOK ARE ALREADY AVAILABLE IN ANACONDA SO NO NEED TO INSTALL IT)
 https://www.anaconda.com/
+https://www.python.org/downloads/
+https://colab.research.google.com/notebooks/intro.ipynb#recent=true
 THANK YOU!!!!
